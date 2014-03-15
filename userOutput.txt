@@ -1,0 +1,276 @@
+---------------------
+| Sentence Index = 0 |
+---------------------
+Fagor know that he needs to manage the competition last year , Commercial San Pedro Malagon holders before the judge that he should become a great challenge .
+
+Hint Level = 0 "No hint"
+
+Correct Responses = 20%
+Blanks Left = 60%
+
+Data:
+needs		 -->  need 
+last		 -->  last
+Pedro		 -->  
+judge		 -->  
+a		 -->  
+##############################################################################
+
+---------------------
+| Sentence Index = 1 |
+---------------------
+It is currently considered to be the highest voltage level of the appeal filed against lawyers Fagor Ireland after the sale .
+
+Hint Level = 0 "No hint"
+
+Correct Responses = 25%
+Blanks Left = 25%
+
+Data:
+to		 -->  to
+level		 -->  
+against		 -->  by
+the		 -->  4
+##############################################################################
+
+---------------------
+| Sentence Index = 2 |
+---------------------
+Cevital 25 million euros in France, the Algerian team that Fagor has trademark rights .
+
+Hint Level = 2 "Machine Translation Hint (Apertium Sentence)"
+Correct Responses = 33%
+Blanks Left = 33%
+
+Data:
+in		 -->  in
+that		 -->  wants
+.		 -->  
+##############################################################################
+
+---------------------
+| Sentence Index = 3 |
+---------------------
+Eye is the first of a string.
+
+Hint Level = 2 "Machine Translation Hint (Apertium Sentence)"
+Correct Responses = 100%
+Blanks Left = 0%
+
+Data:
+of		 -->  of
+##############################################################################
+
+---------------------
+| Sentence Index = 4 |
+---------------------
+First , brands ( De Dietrich , Sauter , Vedette , Brandt and Easycook ), then the two plants in France ( Orleans and Vendome ) , and along with them the salvation of 1,200 jobs , and finally , after being launched in France , active in the Basque Country , Garagarza ( Mondragón ) and Wells create another 300 jobs.
+
+Hint Level = 0 "No hint"
+
+Correct Responses = 25%
+Blanks Left = 58%
+
+Data:
+De		 -->  
+Vedette		 -->  
+),		 -->  
+in		 -->  in
+Vendome		 -->  
+with		 -->  with
+1,200		 -->  the
+,		 -->  
+France		 -->  France
+Basque		 -->  
+Mondragón		 -->  
+another		 -->  around
+##############################################################################
+
+---------------------
+| Sentence Index = 5 |
+---------------------
+Them , and other tangible issues , has offered 2.5 million euros Cevitalek , but without the Connect through this offer document.
+
+Hint Level = 2 "Machine Translation Hint (Apertium Sentence)"
+Correct Responses = 0%
+Blanks Left = 0%
+
+Data:
+tangible		 -->  subject
+2.5		 -->  ,5
+but		 -->  linking
+this		 -->  a
+##############################################################################
+
+---------------------
+| Sentence Index = 6 |
+---------------------
+300 jobs would also be given the option to save the Polish Mastercook chain , also.
+
+Hint Level = 1 "Source Hint (Basque Sentence)"
+Correct Responses = 33%
+Blanks Left = 66%
+
+Data:
+be		 -->  be
+save		 -->  
+,		 -->  
+##############################################################################
+
+---------------------
+| Sentence Index = 7 |
+---------------------
+The suitability of the rope to the State's lawyers , however , nearly 20 billion euros of debt provided by several public guardian.
+
+Hint Level = 1 "Source Hint (Basque Sentence)"
+Correct Responses = 0%
+Blanks Left = 50%
+
+Data:
+rope		 -->  
+,		 -->  
+billion		 -->  million
+by		 -->  to
+##############################################################################
+
+---------------------
+| Sentence Index = 8 |
+---------------------
+Ireland Fagor says that the company's most valuable asset and selling it , the French factories , but that does not necessarily buy Cevitalek the Basque Country , and this commitment has taken.
+
+Hint Level = 2 "Machine Translation Hint (Apertium Sentence)"
+Correct Responses = 50%
+Blanks Left = 16%
+
+Data:
+the		 -->  the
+and		 -->  by
+French		 -->  Basque
+does		 -->  does
+the		 -->  
+this		 -->  this
+##############################################################################
+
+---------------------
+| Sentence Index = 9 |
+---------------------
+Legally , however , there is no legal document to Cevital , and the State's attorney 's trust.
+
+Hint Level = 3 "Both Source and Machine Translation Hint"
+Correct Responses = 66%
+Blanks Left = 0%
+
+Data:
+there		 -->  there
+to		 -->  to
+State's		 -->  lawyer
+##############################################################################
+
+---------------------
+| Sentence Index = 10 |
+---------------------
+" Unprotected " , which allows the sale of its creditors and the staff makes you think that the price was more than 25 million euros , and is now being sold without a transition phase that would be sold at a higher price.
+
+Hint Level = 0 "No hint"
+
+Correct Responses = 25%
+Blanks Left = 12%
+
+Data:
+which		 -->  it
+its		 -->  the
+makes		 -->  and
+price		 -->  profit
+million		 -->  million
+now		 -->  it
+transition		 -->  
+sold		 -->  sold
+##############################################################################
+
+---------------------
+| Sentence Index = 11 |
+---------------------
+Malagon appealed to the judge for consideration and may prevent the sale, however, with the launch of two new plants would give you a chance.
+
+Hint Level = 1 "Source Hint (Basque Sentence)"
+Correct Responses = 60%
+Blanks Left = 0%
+
+Data:
+judge		 -->  judge
+prevent		 -->  stop
+the		 -->  the
+plants		 -->  plants
+chance.		 -->  joy
+##############################################################################
+
+---------------------
+| Sentence Index = 12 |
+---------------------
+Pit joy.
+
+Hint Level = 2 "Machine Translation Hint (Apertium Sentence)"
+
+
+---------------------
+| Sentence Index = 13 |
+---------------------
+Tension is not in front of a small decision.
+
+Hint Level = 3 "Both Source and Machine Translation Hint"
+Correct Responses = 100%
+Blanks Left = 0%
+
+Data:
+front		 -->  front
+##############################################################################
+
+---------------------
+| Sentence Index = 14 |
+---------------------
+In any case, even allow the sale, the process could be delayed a bit, and this can have a significant impact on the link in the chain of waiting.
+
+Hint Level = 3 "Both Source and Machine Translation Hint"
+Correct Responses = 0%
+Blanks Left = 60%
+
+Data:
+allow		 -->  though
+could		 -->  to
+and		 -->  
+significant		 -->  
+in		 -->  
+##############################################################################
+
+---------------------
+| Sentence Index = 15 |
+---------------------
+The courts of Nanterre (France), he declared tomorrow Orleans Vendome and plants (as well as other assets in France) that permits the sale of 100 million euros, or not.
+
+Hint Level = 1 "Source Hint (Basque Sentence)"
+Correct Responses = 20%
+Blanks Left = 40%
+
+Data:
+(France),		 -->  
+Vendome		 -->  
+as		 -->  as 
+that		 -->  he
+100		 -->  100
+##############################################################################
+
+---------------------
+| Sentence Index = 16 |
+---------------------
+If they do not solve tomorrow's brand sales in San Sebastian, Nanterre back to you, as it did twice.
+
+Hint Level = 1 "Source Hint (Basque Sentence)"
+Correct Responses = 0%
+Blanks Left = 66%
+
+Data:
+solve		 -->  
+San		 -->  the
+you,		 -->  
+##############################################################################
+
